@@ -1,0 +1,27 @@
+{
+   "name": "vue-ticks",
+   "version": "1.0.0",
+   "description": "Vue plugin for easy timer ticks management inside components.",
+   "main": "dist/index.js",
+   "license": "MIT",
+   "scripts": {
+      "build": "babel --optional runtime src -d dist"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/jobedom/vue-ticks.git"
+   },
+   "author": "jobedom",
+   "keywords": [
+      "vue",
+      "plugin"
+   ],
+   "devDependencies": {
+      "babel-cli": "^6.26.0",
+      "babel-plugin-add-module-exports": "^1.0.0",
+      "babel-plugin-rename-umd-globals": "^1.0.0",
+      "babel-preset-es2015": "^6.24.1",
+      "eslint": "^5.8.0"
+   },
+   "dependencies": {}
+}
