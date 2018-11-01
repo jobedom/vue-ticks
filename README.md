@@ -27,3 +27,5 @@ You can now declare your ticks:
         ...
       }
     }
+
+Peruse [the sandbox](https://codesandbox.io/s/r7r00mmm9q) to play with the plugin.
