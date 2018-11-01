@@ -1,6 +1,6 @@
 {
    "name": "vue-ticks",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Vue plugin for easy timer ticks management inside components.",
    "main": "dist/index.js",
    "license": "MIT",
