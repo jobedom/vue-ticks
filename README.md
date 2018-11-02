@@ -18,7 +18,7 @@ or
 Enable it in your project:
 
     import Vueticks from 'vue-ticks';
-    Vue.use(Vueticks);
+    Vue.use(VueTicks);
 
 You can now declare your ticks:
 
